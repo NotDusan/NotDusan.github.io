@@ -1,4 +1,5 @@
 # hidden files
+2000-01-01-test.md
 .*
 !.git*
 !.editorconfig
