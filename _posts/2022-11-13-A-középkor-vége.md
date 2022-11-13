@@ -10,6 +10,5 @@ math: true
 - Távolkeleti luxus cikkekért nemesfémmel fizettek
 - Kereskedelmi utak: Selyem, Levantei, Hanza
 - Oszmán bir. monopóliumot biztositott a velenceieknek. (Monopólium: kizárólagos kereskedelmi jog)
-- Teknikai újitások: iránytű, [tájoló](School/History/fogalmak/tájoló), [karavella](School/History/fogalmak/karavella)
-- Atlanti kereskedelmi központ: [Lissabon](School/History/fogalmak/lissabon) (Protugál királyság)
-[[Felfedezések]]
+- Teknikai újitások: iránytű, tájoló, karavella
+- Atlanti kereskedelmi központ: Lissabon (Protugál királyság)
