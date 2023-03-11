@@ -1,4 +1,5 @@
 ---
+tags: [geography, ] 
 title: Népesedési gócok a földön
 math: true
 ---
@@ -31,3 +32,4 @@ Ritkán lakott területek:
 - Forró övezet
 - Magas hegységek
 - Taiga, Tundra éghajlat
+

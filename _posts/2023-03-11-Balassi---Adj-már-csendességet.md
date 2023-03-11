@@ -1,6 +1,6 @@
 ---
 tags: [literature, ] 
-title: Adj már csendességet
+title: Balassi - Adj már csendességet
 math: true
 ---
 - Irta: Balassi Bálint

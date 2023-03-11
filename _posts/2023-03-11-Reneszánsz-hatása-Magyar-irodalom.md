@@ -1,4 +1,5 @@
 ---
+tags: [literature, ] 
 title: Reneszánsz hatása Magyar irodalom
 math: true
 ---
@@ -82,3 +83,5 @@ math: true
 - __Históriás ének__ - történelmi idő hadi eseményei énekbeszédben előadva
 - _1554_ __Cronica__, _23_ saját dallam is 
 - Legismertebbek: __Eger Vár viadaljáról__, ennek összegzése: __Eger Histróriájának Summája__
+
+ 

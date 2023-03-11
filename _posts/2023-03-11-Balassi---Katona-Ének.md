@@ -1,6 +1,6 @@
 ---
 tags: [literature, ] 
-title: Balassi Katona Ének
+title: Balassi - Katona Ének
 math: true
 ---
 - Műfaj: __Katona Ének__/__Óda__

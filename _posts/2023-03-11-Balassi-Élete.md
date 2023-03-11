@@ -1,6 +1,6 @@
 ---
 tags: [literature, ] 
-title: Élete
+title: Balassi Élete
 math: true
 ---
 - _1554_-ben született
@@ -35,7 +35,7 @@ math: true
 - Ágyu golyó eltalálta, elfertőződött és a költő meghalt
 - Halála után az istenes verseit jelenitik meg, a __virágverseit fajtallanak__ találták (_Zrinyi Könyvtára_)
 - __Nótahivatkozás__: Dallamot jelöl amire el lehet énekelni
-- Istenes vers: [[Adj már csendességet]]
-- Katona vers: [[Balassi Katona Ének]]
+- Istenes vers: [[Balassi - Adj már csendességet]]
+- Katona vers: [[Balassi - Katona Ének]]
 
  
